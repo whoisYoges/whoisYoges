@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋, Its me [invalid](https://codeberg.org/whoisYoges)
 
-<!--
-**whoisYoges/whoisYoges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` diff
++☠ The account is no no longer used and maintained!
+```
+#### 🕊 I'm moved to [codeberg](https://codeberg.org) (a better and underrated alternative to github).
 
-Here are some ideas to get you started:
+### 🍁 I've migrated some important projects' repos to https://codeberg.org/whoisYoges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All the updates to old projects will be continued [there](https://codeberg.org/whoisYoges) at https://codeberg.org/whoisYoges.
+
+### So yeah I'm done for github 
+- And I may later even delete this account.
+
+#### Visit https://yogeshlamichhane.com.np to know more about me!
+
+### Wanna know [why did i decide to leave github](https://yogeshlamichhane.com.np/ItsOverGitHub)?
