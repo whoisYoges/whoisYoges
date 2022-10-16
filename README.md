@@ -34,10 +34,12 @@
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
 [![Zola](https://img.shields.io/badge/Zola-000?logo=zola&style=for-the-badge)](https://getzola.org)
 
-<p align="center">Visitor Count (since 14-10-2022)<br>
+<p align="center">Visitor Count<br>
     <a href="https://castorIsDead.xyz" target="_blank" rel="noopener noreferrer">
         <img src="https://profile-counter.glitch.me/whoisYoges/count.svg">
     </a><br>
     <img src="https://user-images.githubusercontent.com/51807726/195896676-6a4f13fa-1d69-49f1-abda-ae3df1cdf54b.gif"><br>
     Now, Since you are here,<br>how about you <a href="https://whoisyoges.123guestbook.com" target="_blank" rel="noopener noreferrer">sign my guestbook</a>
 </p>
+
+[![Something Cool](https://holopin.me/whoisyoges)](https://holopin.io/@whoisyoges)
