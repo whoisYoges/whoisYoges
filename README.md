@@ -3,10 +3,17 @@
 > A Linux enthusiast, FOSS/FLOSS advocate, privacy and freedom proponent, and a **self-taught** frontend designer and developer.
 
 [![Website](https://img.shields.io/badge/-🌈%20Website-FFF?style=for-the-badge)](https://castorIsDead.xyz)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-FFF?&logo=Mastodon&style=for-the-badge)](https://fosstodon.org/@whoisYoges)
 [![Telegram](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram&style=for-the-badge)](https://t.me/whoisYoges)
 [![Twitter](https://img.shields.io/badge/-Twitter-FFF?&logo=Twitter&style=for-the-badge)](https://twitter.com/whoisYoges)
-[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://whoisYoges@castorIsDead.xyz)
-[![Codeberg](https://img.shields.io/badge/-Codeberg-FFF?&logo=codeberg&style=for-the-badge)](https://codeberg.org/whoisYoges)
+[![Email](https://img.shields.io/badge/-Email-FFF?&logo=gmail&style=for-the-badge)](mailto://whoisyoges@castorisdead.xyz)
+
+### **Main:**
+<https://git.sr.ht/~whoisyoges/>
+
+### **Mirrors:**
+<https://codeberg.org/whoisyoges/>  
+<https://github.com/whoisyoges/>
 
 ### Languages and Techonogies I Use Most:
 
